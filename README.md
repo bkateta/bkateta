@@ -8,7 +8,7 @@ Avec une vision tournée vers l'innovation technologique, je m'engage à promouv
 
 ## Centres d’Intérêt
 
-  - Data Science, Machine Learning, et Data Engineering, Intelligence Artificiel.
+  - Génie logiciel, Data Science, Machine Learning, et Data Engineering, Intelligence Artificiel.
   - TIC et développement durable.
   - Innovation technologique et entrepreneuriat.
 ## Compétences Techniques
