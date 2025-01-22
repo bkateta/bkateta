@@ -21,4 +21,4 @@ Avec une vision tournée vers l'innovation technologique, je m'engage à promouv
 -	Bases de données : SQL Server, PostgreSQL, Oracle, MySQL, MongoDB, Firebase
 -	Outils de données : Power BI, Microsoft Fabric, SAP BusinessObjects Web Intelligence, SSRS, SSIS, R Studio, Python (pandas, NumPy, matplotlib)
 -	Suite bureautique : Microsoft 365 (Word, Excel, PowerPoint, Power BI, SharePoint , Teams, Planner, etc.), LibreOffice, Ms Project.
--	Système d’exploitations : Ms Windows et Lunix Ubuntu
+-	Système d’exploitations : Ms Windows et Lunix Ubuntu.
